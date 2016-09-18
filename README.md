@@ -38,3 +38,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CwlWhitespace](https://github.com/mattgallagher/CwlWhitespace) - The first command uses multiple selections to select every text range in your file that it believes is violating a whitespace rule. If a line contains a zero-length problem (missing whitespace or missing indent) then the whole line will be selected.
 * [DemoXcodeExtension](https://github.com/rickytan/DemoXcodeExtension) - Select the current scope / block.
 * [TestXcodeSourceExtensions](https://github.com/hugofalkman/TestXcodeSourceExtensions) - Replace entire files with literals
+* [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code
