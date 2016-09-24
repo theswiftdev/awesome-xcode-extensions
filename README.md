@@ -28,6 +28,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [EmojifySourceEditorExtension](https://github.com/bhargavg/EmojifySourceEditorExtension) - A Proof-Of-Concept implementation of the new Xcode Source Editor Extension
 * [EmojifyApplication](https://github.com/huangxinping/EmojifyApplication) - Same as abowe.
 * [xcode-optimize-imports](https://github.com/anverbogatov/xcode-optimize-imports) - Simple Xcode Source Editor Extension which removes unused imports from your source code.
+* [xcsort](http://apps.brrm.ru/xcsort/) - Sort text or code lines from a text selection. An Xcode extension by [@battlmonstr](https://github.com/battlmonstr).
 * [SwiftLintXcodePlugin](https://github.com/libec/SwiftLintXcodePlugin) - Xcode source extension to help with some SwiftLint rules
 * [BDDShortcuts](https://github.com/tjarratt/BDDShortcuts) - BDD Shortcuts is an Xcode 8+ plugin that adds handy shortcuts for Swift and BDD frameworks such as Cedar, Quick, Kiwi or Specta.
 * [Jump](https://github.com/deszip/Jump) - XCode source editor extension for quick navigating
