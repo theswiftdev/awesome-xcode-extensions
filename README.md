@@ -40,3 +40,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DemoXcodeExtension](https://github.com/rickytan/DemoXcodeExtension) - Select the current scope / block.
 * [TestXcodeSourceExtensions](https://github.com/hugofalkman/TestXcodeSourceExtensions) - Replace entire files with literals
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code
+* [FastCommentLine](https://github.com/ebaker355/FastCommentLine) - Moves cursor to next line after commenting/uncommenting current line (like AppCode).
