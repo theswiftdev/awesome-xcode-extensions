@@ -1,5 +1,5 @@
 # Awesome native Xcode extensions
-Awesome native Xcode extensions. Feel free to contribute! 
+Awesome native Xcode extensions. Feel free to contribute!
 
 You can find the related blogpost [here](https://theswiftdev.com/2016/08/17/xcode-8-extensions/).
 
@@ -33,7 +33,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [BDDShortcuts](https://github.com/tjarratt/BDDShortcuts) - BDD Shortcuts is an Xcode 8+ plugin that adds handy shortcuts for Swift and BDD frameworks such as Cedar, Quick, Kiwi or Specta.
 * [Jump](https://github.com/deszip/Jump) - XCode source editor extension for quick navigating
 * [XcodeTopComment](https://github.com/alexito4/XcodeTopComment) - Xcode Source Editor Extension to remove or modify the top comment of a file
-* [PAXcodePlugin](https://github.com/balloonsys/PAXcodePlugin) - Example of Xcode Source Editor Extension 
+* [PAXcodePlugin](https://github.com/balloonsys/PAXcodePlugin) - Example of Xcode Source Editor Extension
 * [XcodeExtension-TotsuzenNoShi](https://github.com/safx/XcodeExtension-TotsuzenNoShi) - A small "sudden" example of Xcode source code extension
 * [ClangFormatter](https://github.com/neonichu/ClangFormatter) - Xcode Source Editor Extension for clang-format
 * [CwlWhitespace](https://github.com/mattgallagher/CwlWhitespace) - The first command uses multiple selections to select every text range in your file that it believes is violating a whitespace rule. If a line contains a zero-length problem (missing whitespace or missing indent) then the whole line will be selected.
@@ -41,3 +41,5 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [TestXcodeSourceExtensions](https://github.com/hugofalkman/TestXcodeSourceExtensions) - Replace entire files with literals
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code
 * [FastCommentLine](https://github.com/ebaker355/FastCommentLine) - Moves cursor to next line after commenting/uncommenting current line (like AppCode).
+* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
+
