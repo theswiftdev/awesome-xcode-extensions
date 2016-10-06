@@ -42,4 +42,5 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code
 * [FastCommentLine](https://github.com/ebaker355/FastCommentLine) - Moves cursor to next line after commenting/uncommenting current line (like AppCode).
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
+* [Import☝️](https://github.com/markohlebar/Import) - Add imports from anywhere in the code.
 
