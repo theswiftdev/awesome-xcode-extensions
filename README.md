@@ -43,4 +43,5 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
 * [Import☝️](https://github.com/markohlebar/Import) - Add imports from anywhere in the code.
 * [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
+* [Mark](https://github.com/velyan/Mark) - Generates MARK comments from protocol conformance in class declaration.
 
