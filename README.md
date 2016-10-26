@@ -45,3 +45,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
 * [Mark](https://github.com/velyan/Mark) - Generates MARK comments from protocol conformance in class declaration.
 * [Propertizer](https://github.com/josipbernat/Propertizer) - Autocompletes @property statements with desired type.
+* [Eric’s Mark](https://github.com/richardfrk/EricsMark) - Identifies IBOutlets, IBActions, Super Classes, Properties (and more) and MARK them.
