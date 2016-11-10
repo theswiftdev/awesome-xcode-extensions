@@ -8,6 +8,7 @@ You can find the related blogpost [here](https://theswiftdev.com/2016/08/17/xcod
 Please submit a pull request to improve this file. Thank you to all contributors; you rock!
 
 ### The list
+* [XAlign](An amazing Xcode Source Editor extension to align regular code.)
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) -This Xcode source editor extension align your assignment statement.
 * [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) -  Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code.
