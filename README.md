@@ -49,5 +49,5 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Eric’s Mark](https://github.com/richardfrk/EricsMark) - Identifies IBOutlets, IBActions, Super Classes, Properties (and more) and MARK them.
 * [Quick Add](https://github.com/funky-monkey/QuickAdd) - A Xcode Source Editor Extension to quickly add a method implementation with comment from selected text
 * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A Xcode Source Editor Extension to sort your header imports and remove duplicates, similar to iSort.
-* [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) - An Xcode Source Editor Extension providing convenient line manipulation such like __line deletion__ and __duplication__
-.
+* [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) - An Xcode Source Editor Extension providing convenient line manipulation such like __line deletion__ and __duplication__.
+* [Basics](https://github.com/b-yng/Basics) - Generates __NSCopying__, __isEquals__, __hash__, and more.
