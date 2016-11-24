@@ -51,3 +51,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A Xcode Source Editor Extension to sort your header imports and remove duplicates, similar to iSort.
 * [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) - An Xcode Source Editor Extension providing convenient line manipulation such like __line deletion__ and __duplication__.
 * [Basics](https://github.com/b-yng/Basics) - Generates __NSCopying__, __isEquals__, __hash__, and more.
+* [HandyXcode](https://github.com/konkontos/HandyXcode) - A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)
