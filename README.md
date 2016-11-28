@@ -53,3 +53,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) - An Xcode Source Editor Extension providing convenient line manipulation such like __line deletion__ and __duplication__.
 * [Basics](https://github.com/b-yng/Basics) - Generates __NSCopying__, __isEquals__, __hash__, and more.
 * [HandyXcode](https://github.com/konkontos/HandyXcode) - A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)
+* [LocalizedString](https://github.com/mateusfsilva/LocalizedString) - Xcode Source Editor Extension that helps to localize Swift and Objective-C source files
