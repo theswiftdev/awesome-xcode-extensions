@@ -54,3 +54,5 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Basics](https://github.com/b-yng/Basics) - Generates __NSCopying__, __isEquals__, __hash__, and more.
 * [HandyXcode](https://github.com/konkontos/HandyXcode) - A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)
 * [LocalizedString](https://github.com/mateusfsilva/LocalizedString) - Xcode Source Editor Extension that helps to localize Swift and Objective-C source files
+* [Xgist](https://github.com/Bunn/Xgist) - Xcode Source Editor Extension that sends code to GitHub's [Gist](https://gist.github.com)
+
