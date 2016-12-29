@@ -28,7 +28,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [VS-Key-Bindings-For-Xcode](https://github.com/SlavaBreath/VS-Key-Bindings-For-Xcode) - Visual Studio Comment Selection and Uncomment Selection for Xcode 8 extension.
 * [Localizer](https://github.com/esttorhe/Localizer) - It then breaks apart any String declarations it founds by splitting the selection based off " and then wrap the resulting String inside NSLocalizedString.
 * [EmojifySourceEditorExtension](https://github.com/bhargavg/EmojifySourceEditorExtension) - A Proof-Of-Concept implementation of the new Xcode Source Editor Extension
-* [EmojifyApplication](https://github.com/huangxinping/EmojifyApplication) - Same as abowe.
+* [EmojifyApplication](https://github.com/huangxinping/EmojifyApplication) - Same as above.
 * [xcsort](http://apps.brrm.ru/xcsort/) - Sort text or code lines from a text selection. An Xcode extension by [@battlmonstr](https://github.com/battlmonstr).
 * [SwiftLintXcodePlugin](https://github.com/libec/SwiftLintXcodePlugin) - Xcode source extension to help with some SwiftLint rules
 * [BDDShortcuts](https://github.com/tjarratt/BDDShortcuts) - BDD Shortcuts is an Xcode 8+ plugin that adds handy shortcuts for Swift and BDD frameworks such as Cedar, Quick, Kiwi or Specta.
