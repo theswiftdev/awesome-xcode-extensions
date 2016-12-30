@@ -8,6 +8,7 @@ You can find the related blogpost [here](https://theswiftdev.com/2016/08/17/xcod
 Please submit a pull request to improve this file. Thank you to all contributors; you rock!
 
 ### The list
+* [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) - Xcode editor extension for swift code generation.
 * [GithubIssuesExtension](https://github.com/ambientlight/GithubIssuesExtension) - Xcode editor extension that adds an ability to post and edit github issues through comment templates
 * [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode Source Editor extension to align regular code.
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) -This Xcode source editor extension align your assignment statement.
