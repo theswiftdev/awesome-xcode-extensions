@@ -8,6 +8,7 @@ You can find the related blogpost [here](https://theswiftdev.com/2016/08/17/xcod
 Please submit a pull request to improve this file. Thank you to all contributors; you rock!
 
 ### The list
+* [EasyCode-Xcode](https://github.com/music4kid/EasyCode-Xcode) - "legal" Xcode Plugin for inserting code in super duper fast lazy way.
 * [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) - Xcode editor extension for swift code generation.
 * [GithubIssuesExtension](https://github.com/ambientlight/GithubIssuesExtension) - Xcode editor extension that adds an ability to post and edit github issues through comment templates
 * [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode Source Editor extension to align regular code.
