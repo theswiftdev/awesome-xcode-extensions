@@ -62,7 +62,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CodeCows](https://itunes.apple.com/us/app/codecows/id1176112058?mt=12) - Add hundreds of ASCII cows to your source code
 * [DeclareType](https://github.com/timaktimak/DeclareType) - Generate the type declaration in your file based on the file name
 * [Switch Enum Case Generator](https://github.com/timaktimak/SwitchCaseGenerator) - Instant switch with selected enum cases
-* [XShared](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram) :sunglasses:
+* [XShared](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
 * [TabifyIndents](https://itunes.apple.com/jp/app/tabifyindents-for-xcode/id1179234554?mt=12) - This application adds two feature that Tabify and Untabify to Xcode Source Editor.
 * [Literals](https://github.com/Igor-Palaguta/LiteralsExtension) - Converts UIColor, NSColor, UIImage to literals
 * [Pragmatic](https://github.com/bgannin/Pragmatic) - An Xcode 8.x Source Editor extension for simplifying common pragma driven tasks
