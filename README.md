@@ -65,4 +65,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XShared](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
 * [TabifyIndents](https://itunes.apple.com/jp/app/tabifyindents-for-xcode/id1179234554?mt=12) - This application adds two feature that Tabify and Untabify to Xcode Source Editor.
 * [Literals](https://github.com/Igor-Palaguta/LiteralsExtension) - Converts UIColor, NSColor, UIImage to literals
-* [Pragmatic](https://github.com/bgannin/Pragmatic) - An Xcode 8.x Source Editor extension for simplifying common pragma driven tasks
+* [Pragmatic](https://github.com/bgannin/Pragmatic) - An Xcode 8.*x* Source Editor extension for simplifying common pragma driven tasks
