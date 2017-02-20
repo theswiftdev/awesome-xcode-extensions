@@ -66,3 +66,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [TabifyIndents](https://itunes.apple.com/jp/app/tabifyindents-for-xcode/id1179234554?mt=12) - This application adds two feature that Tabify and Untabify to Xcode Source Editor.
 * [Literals](https://github.com/Igor-Palaguta/LiteralsExtension) - Converts UIColor, NSColor, UIImage to literals
 * [Pragmatic](https://github.com/bgannin/Pragmatic) - An Xcode 8.*x* Source Editor extension for simplifying common pragma driven tasks
+* [Xcode-NSCoding](https://github.com/accatyyc/xcode-nscoding) - Automatically creates NSCoding-implementations from properties
