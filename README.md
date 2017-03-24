@@ -69,3 +69,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Literals](https://github.com/Igor-Palaguta/LiteralsExtension) - Converts UIColor, NSColor, UIImage to literals
 * [Pragmatic](https://github.com/bgannin/Pragmatic) - An Xcode 8.*x* Source Editor extension for simplifying common pragma driven tasks
 * [Xcode-NSCoding](https://github.com/accatyyc/xcode-nscoding) - Automatically creates NSCoding-implementations from properties
+* [LineEscapeEx](https://github.com/sidepelican/LineEscapeEx) - Duplicate lines as comment
