@@ -25,6 +25,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Dotify](https://github.com/cyanzhong/Dotify) - Convert [[AnObject method1] method2] to AnObject.method1.method2 with Xcode Extension
 * [XcodeEditorPlus](https://github.com/wangshengjia/XcodeEditorPlus) - Bring some convenient editor shortcuts to Xcode using Xcode Source Editor Extension, inspired from AppCode.
 * [XcodeWay](https://github.com/onmyway133/XcodeWay) - Navigate to many places from Xcode
+* [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2) - An Xcode source editor extension that makes working with color easier
 * [strimmer](https://github.com/squarefrog/strimmer) - Strimmer is an Xcode 8 Source Code Extension that quickly strips all trailing whitespace from the current file.
 * [Jumpy](https://github.com/eddiekaiger/Jumpy) - Jumpy is an Xcode source editor extension for jumping across multiple lines of code.
 * [SETools](https://github.com/AfricanSwift/SETools) - Xcode 8 Extension - Figlet Font Titles
