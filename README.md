@@ -74,3 +74,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [LanguageTranslator](https://itunes.apple.com/app/languagetranslator-for-xcode/id1218781096?mt=12) - A Xcode Source Editor extension to translate selected text into other language.
 * [NamingTranslator](https://itunes.apple.com/app/namingtranslator-for-xcode/id1218784832?mt=12) - A Xcode Source Editor extension to translate selected variable or method between PascalCase, camelCase and snake_case.
 * [CodeGenerator](https://github.com/DeveloperPans/CodeGenerator) - A Xcode Source Editor extension to generate lazy getter methods from property.
+* [MGTextPlus](https://github.com/tuan188/MGTextPlus) - A Xcode Source Editor extension to duplicate line, delete line, join lines and more.
