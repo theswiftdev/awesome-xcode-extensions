@@ -76,3 +76,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CodeGenerator](https://github.com/DeveloperPans/CodeGenerator) - A Xcode Source Editor extension to generate lazy getter methods from property.
 * [MGTextPlus](https://github.com/tuan188/MGTextPlus) - A Xcode Source Editor extension to duplicate line, delete line, join lines and more.
 * [Rubicon](https://github.com/raptorxcz/Rubicon) - Swift parser + Spy generator.
+* [BExtension](https://github.com/DominikBucher12/BEExtension) - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
