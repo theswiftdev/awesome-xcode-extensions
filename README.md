@@ -20,6 +20,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) -  Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code.
 * [Xcode-Search](https://github.com/skyline75489/Xcode-Search) - A Xcode Source Editor Extension that searches external sources
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
+* [Imp😈](https://github.com/shalamowww/imp) - Sorting imports in Xcode files has never been that fun and easy
 * [XcodeCComment](https://github.com/flexih/XcodeCComment) - Xcode Source Editor Extension for C Style Comment /**/
 * [Duplicate Line](https://github.com/castus/Xcode8Extensions) - Xcode's source editor extension to duplicate selected line or lines.
 * [Dotify](https://github.com/cyanzhong/Dotify) - Convert [[AnObject method1] method2] to AnObject.method1.method2 with Xcode Extension
