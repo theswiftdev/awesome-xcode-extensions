@@ -10,6 +10,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### The list
 * [JSON-to-Swift-Converter](https://github.com/mrlegowatch/JSON-to-Swift-Converter) - an open-source Xcode Source Editor extension for creating Swift code from JSON-formatted text.
 * [JSON2Swift](https://itunes.apple.com/us/app/json2swift/id1208964041?mt=12) - a flexible, fast, customizable tool which allows you to generate swift code based on JSON file.
+* [Json2Property](https://github.com/keepyounger/Json2Property) - a open-source Xcode Extension by [@keepyounger](https://github.com/keepyounger), allow you conveniently to convert Json to Objective-C model.
 * [Swiftify Xcode extension](https://itunes.apple.com/us/app/swiftify-objective-c-to-swift/id1183412116) - allows you to convert Objective-C code to Swift right from Xcode.
 * [EasyCode-Xcode](https://github.com/music4kid/EasyCode-Xcode) - "legal" Xcode Plugin for inserting code in super duper fast lazy way.
 * [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) - Xcode editor extension for swift code generation.
