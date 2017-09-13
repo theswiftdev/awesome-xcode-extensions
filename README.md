@@ -15,6 +15,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Swiftify Xcode extension](https://itunes.apple.com/us/app/swiftify-objective-c-to-swift/id1183412116) - allows you to convert Objective-C code to Swift right from Xcode.
 * [EasyCode-Xcode](https://github.com/music4kid/EasyCode-Xcode) - "legal" Xcode Plugin for inserting code in super duper fast lazy way.
 * [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) - Xcode editor extension for swift code generation.
+* [🔮 Snowonder](https://github.com/Karetski/Snowonder) — an import declarations formatter Xcode Extension.
 * [GithubIssuesExtension](https://github.com/ambientlight/GithubIssuesExtension) - Xcode editor extension that adds an ability to post and edit github issues through comment templates
 * [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode Source Editor extension to align regular code.
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) -This Xcode source editor extension align your assignment statement.
