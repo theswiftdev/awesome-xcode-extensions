@@ -1,4 +1,5 @@
 # Awesome native Xcode extensions
+
 Awesome native Xcode extensions. Feel free to contribute!
 
 You can find the related blogpost [here](https://theswiftdev.com/2016/08/17/xcode-8-extensions/).
@@ -22,7 +23,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) -This Xcode source editor extension align your assignment statement.
 * [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
 * [strimmer](https://github.com/squarefrog/strimmer) - Strimmer is an Xcode 8 Source Code Extension that quickly strips all trailing whitespace from the current file.
-* [xcsort](http://apps.brrm.ru/xcsort/) - Sort text or code lines from a text selection. An Xcode extension by [](https://github.com/battlmonstr).
+* [xcsort](http://apps.brrm.ru/xcsort/) - Sort text or code lines from a text selection. An Xcode extension by [battlmonstr](https://github.com/battlmonstr).
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
 * [SwiftLintXcodePlugin](https://github.com/libec/SwiftLintXcodePlugin) - Xcode source extension to help with some SwiftLint rules
 * [ClangFormatter](https://github.com/neonichu/ClangFormatter) - Xcode Source Editor Extension for clang-format
@@ -33,7 +34,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 * [JSON-to-Swift-Converter](https://github.com/mrlegowatch/JSON-to-Swift-Converter) - an open-source Xcode Source Editor extension for creating Swift code from JSON-formatted text.
 * [JSON2Swift](https://itunes.apple.com/us/app/json2swift/id1208964041?mt=12) - a flexible, fast, customizable tool which allows you to generate swift code based on JSON file.
-* [Json2Property](https://github.com/keepyounger/Json2Property) - a open-source Xcode Extension by [](https://github.com/keepyounger), allow you conveniently to convert Json to Objective-C model.
+* [Json2Property](https://github.com/keepyounger/Json2Property) - a open-source Xcode Extension by [keepyounger](https://github.com/keepyounger), allow you conveniently to convert Json to Objective-C model.
 * [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) - Xcode editor extension for swift code generation.
 * [GenerateSwiftInit](https://github.com/bkobilansky/GenerateSwiftInit) - Proof of concept for Xcode 8 source extensions; generate a Swift init from current selection
 * [Localizer](https://github.com/esttorhe/Localizer) - It then breaks apart any String declarations it founds by splitting the selection based off " and then wrap the resulting String inside NSLocalizedString.
@@ -46,7 +47,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Helper on editing
 
 * [XCExpandRegion](https://bitbucket.org/rjchatfield/xcexpandregion) - Select text by expanding the current selection
-* [xTextHandler](https://github.com/cyanzhong/xTextHandler) - &nbsp;Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code.
+* [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code.
 * [XcodeCComment](https://github.com/flexih/XcodeCComment) - Xcode Source Editor Extension for C Style Comment /**/
 * [Duplicate Line](https://github.com/castus/Xcode8Extensions) - Xcode's source editor extension to duplicate selected line or lines.
 * [XcodeEditorPlus](https://github.com/wangshengjia/XcodeEditorPlus) - Bring some convenient editor shortcuts to Xcode using Xcode Source Editor Extension, inspired from AppCode.
@@ -67,7 +68,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [LanguageTranslator](https://itunes.apple.com/app/languagetranslator-for-xcode/id1218781096?mt=12) - A Xcode Source Editor extension to translate selected text into other language.
 * [NamingTranslator](https://itunes.apple.com/app/namingtranslator-for-xcode/id1218784832?mt=12) - A Xcode Source Editor extension to translate selected variable or method between PascalCase, camelCase and snake_case.
 
-### Collabora## tions with internal/external services
+
+### Collaborations with internal/external services
 
 * [GithubIssuesExtension](https://github.com/ambientlight/GithubIssuesExtension) - Xcode editor extension that adds an ability to post and edit github issues through comment templates
 * [Xcode-Search](https://github.com/skyline75489/Xcode-Search) - A Xcode Source Editor Extension that searches external sources
@@ -105,3 +107,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [TestXcodeSourceExtensions](https://github.com/hugofalkman/TestXcodeSourceExtensions) - Replace entire files with literals
 * [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) - An Xcode Source Editor Extension providing convenient line manipulation such like __line deletion__ and __duplication__.
 * [BDDShortcuts](https://github.com/tjarratt/BDDShortcuts) - BDD Shortcuts is an Xcode 8+ plugin that adds handy shortcuts for Swift and BDD frameworks such as Cedar, Quick, Kiwi or Specta.
+
