@@ -14,6 +14,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 * [XTExtension](https://github.com/wuwen1030/XTExtension) - Comment lines.
 * [PAXcodePlugin](https://github.com/balloonsys/PAXcodePlugin) - Example of Xcode Source Editor Extension
+* [XcodeExtensionSample](https://github.com/takasek/XcodeExtensionSample) - Various sample commands for your Xcode Source Editor Extension implementation.
 
 ### Formatters
 
