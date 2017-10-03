@@ -47,6 +47,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Helper on editing
 
+* [Linex](https://github.com/kaunteya/Linex) - Packed with a lot of useful tools for everyday editing
 * [XCExpandRegion](https://bitbucket.org/rjchatfield/xcexpandregion) - Select text by expanding the current selection
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code.
 * [XcodeCComment](https://github.com/flexih/XcodeCComment) - Xcode Source Editor Extension for C Style Comment /**/
