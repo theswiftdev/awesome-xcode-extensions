@@ -2,8 +2,6 @@
 
 Awesome native Xcode extensions. Feel free to contribute!
 
-You can find the related blogpost [here](https://theswiftdev.com/2016/08/17/xcode-8-extensions/).
-
 ## Contributing
 
 Please submit a pull request to improve this file. Thank you to all contributors; you rock!
