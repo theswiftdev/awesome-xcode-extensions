@@ -31,6 +31,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Typed Boilerplate Code Generators
 
+* [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [JSON-to-Swift-Converter](https://github.com/mrlegowatch/JSON-to-Swift-Converter) - an open-source Xcode Source Editor extension for creating Swift code from JSON-formatted text.
 * [JSON2Swift](https://itunes.apple.com/us/app/json2swift/id1208964041?mt=12) - a flexible, fast, customizable tool which allows you to generate swift code based on JSON file.
 * [Json2Property](https://github.com/keepyounger/Json2Property) - a open-source Xcode Extension by [keepyounger](https://github.com/keepyounger), allow you conveniently to convert Json to Objective-C model.
