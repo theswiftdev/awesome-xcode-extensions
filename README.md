@@ -71,7 +71,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [LanguageTranslator](https://itunes.apple.com/app/languagetranslator-for-xcode/id1218781096?mt=12) - A Xcode Source Editor extension to translate selected text into other language.
 * [NamingTranslator](https://itunes.apple.com/app/namingtranslator-for-xcode/id1218784832?mt=12) - A Xcode Source Editor extension to translate selected variable or method between PascalCase, camelCase and snake_case.
 * [DevHelper](https://github.com/AlexeyGolovenkov/DevHelper) - Several inline tools - sort, comment out etc.
-
+* [AutoImport](https://github.com/hhfa008/AutoImport) - AutoImport, handy Xcode plugin to import header file automatically.
 
 ### Collaborations with internal/external services
 
