@@ -31,6 +31,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Typed Boilerplate Code Generators
 
+* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 * [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [JSON-to-Swift-Converter](https://github.com/mrlegowatch/JSON-to-Swift-Converter) - an open-source Xcode Source Editor extension for creating Swift code from JSON-formatted text.
 * [JSON2Swift](https://itunes.apple.com/us/app/json2swift/id1208964041?mt=12) - a flexible, fast, customizable tool which allows you to generate swift code based on JSON file.
