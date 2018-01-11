@@ -30,7 +30,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A Xcode Source Editor Extension to sort your header imports and remove duplicates, similar to iSort.
 
 ### Typed Boilerplate Code Generators
-
+* [TrickerX](https://github.com/wleii/TrickerX) - Help you make Swift `Codable` `CodingKeys` automatically.
 * [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 * [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [JSON-to-Swift-Converter](https://github.com/mrlegowatch/JSON-to-Swift-Converter) - an open-source Xcode Source Editor extension for creating Swift code from JSON-formatted text.
