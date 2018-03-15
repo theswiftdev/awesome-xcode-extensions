@@ -75,6 +75,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [NamingTranslator](https://itunes.apple.com/app/namingtranslator-for-xcode/id1218784832?mt=12) - A Xcode Source Editor extension to translate selected variable or method between PascalCase, camelCase and snake_case.
 * [DevHelper](https://github.com/AlexeyGolovenkov/DevHelper) - Several inline tools - sort, comment out etc.
 * [AutoImport](https://github.com/hhfa008/AutoImport) - AutoImport, handy Xcode plugin to import header file automatically.
+* [ConflictResolver](https://github.com/liaojinxing/ConflictResolver) - An Xcode Source Editor Extension that helps resolving merge conflicts.
 
 ### Collaborations with internal/external services
 
