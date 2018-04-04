@@ -50,6 +50,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Helper on editing
 
+* [XSpellCheck](https://github.com/wangjiejacques/XSpellCheck) - XSpellCheck is a Xcode extension for swift code spell check.
 * [XCJumpToTests](https://github.com/takasek/XCJumpToTests) - the Xcode Source Editor Extension / AppleScript to jump files of Implementation⇄Tests
 * [Sharpshooter](https://github.com/twostraws/Sharpshooter) - A tiny Xcode extension for people who debug with print()
 * [Linex](https://github.com/kaunteya/Linex) - Packed with a lot of useful tools for everyday editing
