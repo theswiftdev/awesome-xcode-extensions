@@ -50,6 +50,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Helper on editing
 
+* [Comment Here](https://itunes.apple.com/us/app/comment-here/id1406737173?mt=12) - Insert // just before indented text
 * [NSLayoutConstraintSourceEditorExtension](https://github.com/shindyu/NSLayoutConstraintSourceEditorExtension) - Quickly add NSLayoutConstraint. Also support multiple variables.
 * [XSpellCheck](https://github.com/wangjiejacques/XSpellCheck) - XSpellCheck is a Xcode extension for swift code spell check.
 * [XCJumpToTests](https://github.com/takasek/XCJumpToTests) - the Xcode Source Editor Extension / AppleScript to jump files of Implementation⇄Tests
