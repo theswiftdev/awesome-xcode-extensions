@@ -13,6 +13,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XTExtension](https://github.com/wuwen1030/XTExtension) - Comment lines.
 * [PAXcodePlugin](https://github.com/balloonsys/PAXcodePlugin) - Example of Xcode Source Editor Extension
 * [XcodeExtensionSample](https://github.com/takasek/XcodeExtensionSample) - Various sample commands for your Xcode Source Editor Extension implementation.
+* [Xcode Source Editor Extension Tutorial: Getting Started](http://www.vadimbulavin.com/xcode-source-editor-extension-tutorial/)
 
 ### Formatters
 
@@ -30,6 +31,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code
 * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A Xcode Source Editor Extension to sort your header imports and remove duplicates, similar to iSort.
 * [PPImportArrangerExtension](https://github.com/VernonVan/PPImportArrangerExtension) - A Xcode Source Editor Extension to arrange current file's all #import lines, support Objective-C、Swift、C.
+* [LinesSorter](https://github.com/V8tr/LinesSorter-Xcode-Extension) - LinesSorter helps you keep your import statements and long code lists organized and uniform. Easy to install: no need to hack Xcode.
 
 ### Typed Boilerplate Code Generators
 * [SwiftAI](https://github.com/hhfa008/SwiftAI)  - generate Codable&HandyJSON model class from JSON automatically
