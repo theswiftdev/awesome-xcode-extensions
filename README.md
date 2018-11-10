@@ -82,6 +82,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DevHelper](https://github.com/AlexeyGolovenkov/DevHelper) - Several inline tools - sort, comment out etc.
 * [AutoImport](https://github.com/hhfa008/AutoImport) - AutoImport, handy Xcode plugin to import header file automatically.
 * [ConflictResolver](https://github.com/liaojinxing/ConflictResolver) - An Xcode Source Editor Extension that helps resolving merge conflicts.
+* [XCSmartCutCopyPaste](https://github.com/mretondo/XCSmartCutCopyPaste) - Apply Cut or Copy commands to blank lines in line mode when there is no selection.
 
 ### Collaborations with internal/external services
 
