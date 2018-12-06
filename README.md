@@ -25,7 +25,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [strimmer](https://github.com/squarefrog/strimmer) - Strimmer is an Xcode 8 Source Code Extension that quickly strips all trailing whitespace from the current file.
 * [xcsort](http://apps.brrm.ru/xcsort/) - Sort text or code lines from a text selection. An Xcode extension by [battlmonstr](https://github.com/battlmonstr).
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code
-* [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.sdf
+* [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
 * [SwiftLintXcodePlugin](https://github.com/libec/SwiftLintXcodePlugin) - Xcode source extension to help with some SwiftLint rules
 * [ClangFormatter](https://github.com/neonichu/ClangFormatter) - Xcode Source Editor Extension for clang-format
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code
