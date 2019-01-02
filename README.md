@@ -125,3 +125,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) - An Xcode Source Editor Extension providing convenient line manipulation such like __line deletion__ and __duplication__.
 * [BDDShortcuts](https://github.com/tjarratt/BDDShortcuts) - BDD Shortcuts is an Xcode 8+ plugin that adds handy shortcuts for Swift and BDD frameworks such as Cedar, Quick, Kiwi or Specta.
 * [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode.
+* [Code Friend](https://github.com/qvcodefriend/CodeFriend) - JavaScript interface for XcodeKit. Users can develop Xcode Extensions rapidly.
