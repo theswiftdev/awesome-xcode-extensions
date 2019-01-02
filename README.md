@@ -45,6 +45,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [GenerateSwiftInit](https://github.com/bkobilansky/GenerateSwiftInit) - Proof of concept for Xcode 8 source extensions; generate a Swift init from current selection
 * [Localizer](https://github.com/esttorhe/Localizer) - It then breaks apart any String declarations it founds by splitting the selection based off " and then wrap the resulting String inside NSLocalizedString.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
+* [Swift Init Generator](https://github.com/Atimca/SwiftInitGenerator) - This Xcode 10 Source Code Extension generates a Swift initialezer based on the lines you've selected. Also suports filtering unnecessary fields and transition to a new line, when the init string is long.
 * [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
 * [Switch Enum Case Generator](https://github.com/timaktimak/SwitchCaseGenerator) - Instant switch with selected enum cases
 * [Rubicon](https://github.com/raptorxcz/Rubicon) - Swift parser + Spy generator.
