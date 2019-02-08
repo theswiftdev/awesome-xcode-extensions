@@ -86,6 +86,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [ConflictResolver](https://github.com/liaojinxing/ConflictResolver) - An Xcode Source Editor Extension that helps resolving merge conflicts.
 * [XCSmartCutCopyPaste](https://github.com/mretondo/XCSmartCutCopyPaste) - Apply Cut or Copy commands to blank lines in line mode when there is no selection.
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) - Runs spell check and auto correct on code comments.
+* [XPaste](https://github.com/rickytan/XPaste) - A Xcode Source Extension to power up your text paste abilities
 
 ### Collaborations with internal/external services
 
