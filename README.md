@@ -88,6 +88,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XCSmartCutCopyPaste](https://github.com/mretondo/XCSmartCutCopyPaste) - Apply Cut or Copy commands to blank lines in line mode when there is no selection.
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) - Runs spell check and auto correct on code comments.
 * [XPaste](https://github.com/rickytan/XPaste) - A Xcode Source Extension to power up your text paste abilities
+* [Convert to Multi-Line Function](https://github.com/chrischute/xcode-multi-line-func) - XCode Source Editor Command to put each function argument on its own line.
 
 ### Collaborations with internal/external services
 
