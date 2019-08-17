@@ -89,6 +89,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) - Runs spell check and auto correct on code comments.
 * [XPaste](https://github.com/rickytan/XPaste) - A Xcode Source Extension to power up your text paste abilities
 * [Convert to Multi-Line Function](https://github.com/chrischute/xcode-multi-line-func) - XCode Source Editor Command to put each function argument on its own line.
+* [SwitchIt](https://github.com/HarmVanRisk/SwitchIt) - An Xcode Extension that auto generates your switch statements from your defined enums. Can be downloaded on the app store [here](https://itunes.apple.com/ie/app/switchit/id1244401606?mt=12)
+* [DoubleTake](https://github.com/HarmVanRisk/DoubleTake) - An Xcode Extension that removes duplicate imports/@class defined in a class. Can be downloaded on the app store [here](https://itunes.apple.com/ie/app/doubletake/id1453300536?mt=12)
 
 ### Collaborations with internal/external services
 
