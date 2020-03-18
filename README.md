@@ -103,6 +103,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [PlayAlways](https://github.com/insidegui/PlayAlways) - Create Xcode playgrounds from your menu bar.
 * [XShared](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
 * [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
+* [GitBlamePR](https://github.com/maoyama/GitBlamePR) - An Xcode Source Editor Extension that shows pull request last modified each line of a file.
+
 
 ### For Objective-C
 
