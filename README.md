@@ -61,7 +61,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XSpellCheck](https://github.com/wangjiejacques/XSpellCheck) - XSpellCheck is a Xcode extension for swift code spell check.
 * [XCJumpToTests](https://github.com/takasek/XCJumpToTests) - the Xcode Source Editor Extension / AppleScript to jump files of Implementation⇄Tests
 * [Sharpshooter](https://github.com/twostraws/Sharpshooter) - A tiny Xcode extension for people who debug with print()
-* [Linex](https://github.com/kaunteya/Linex) - Packed with a lot of useful tools for everyday editing
+* [Linex](https://github.com/uchuugaka/Linex) - Packed with a lot of useful tools for everyday editing (*may no longer be maintained*) 
 * [XCExpandRegion](https://bitbucket.org/rjchatfield/xcexpandregion) - Select text by expanding the current selection
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code.
 * [XcodeCComment](https://github.com/flexih/XcodeCComment) - Xcode Source Editor Extension for C Style Comment /**/
@@ -104,6 +104,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XShared](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
 * [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
 * [GitBlamePR](https://github.com/maoyama/GitBlamePR) - An Xcode Source Editor Extension that shows pull request last modified each line of a file.
+* [XcodeUniversalSearch](https://github.com/sm11963/XcodeUniversalSearch) - Search or open custom URLs from Xcode - just like custom Chrome search engines.
 
 
 ### For Objective-C
