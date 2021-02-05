@@ -137,3 +137,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [BDDShortcuts](https://github.com/tjarratt/BDDShortcuts) - BDD Shortcuts is an Xcode 8+ plugin that adds handy shortcuts for Swift and BDD frameworks such as Cedar, Quick, Kiwi or Specta.
 * [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode.
 * [Code Friend](https://github.com/qvcodefriend/CodeFriend) - JavaScript interface for XcodeKit. Users can develop Xcode Extensions rapidly.
+* [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser. 
