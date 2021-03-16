@@ -11,9 +11,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Tutorials of Xcode Source Editor Extension
 
 * [XTExtension](https://github.com/wuwen1030/XTExtension) - Comment lines.
-* [PAXcodePlugin](https://github.com/balloonsys/PAXcodePlugin) - Example of Xcode Source Editor Extension
 * [XcodeExtensionSample](https://github.com/takasek/XcodeExtensionSample) - Various sample commands for your Xcode Source Editor Extension implementation.
-* [Xcode Source Editor Extension Tutorial: Getting Started](http://www.vadimbulavin.com/xcode-source-editor-extension-tutorial/)
+* [Xcode Source Editor Extension Tutorial: Getting Started](https://www.vadimbulavin.com/xcode-source-editor-extension-tutorial/)
 
 ### Formatters
 
@@ -26,8 +25,6 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [xcsort](http://apps.brrm.ru/xcsort/) - Sort text or code lines from a text selection. An Xcode extension by [battlmonstr](https://github.com/battlmonstr).
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
-* [SwiftLintXcodePlugin](https://github.com/libec/SwiftLintXcodePlugin) - Xcode source extension to help with some SwiftLint rules
-* [ClangFormatter](https://github.com/neonichu/ClangFormatter) - Xcode Source Editor Extension for clang-format
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code
 * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A Xcode Source Editor Extension to sort your header imports and remove duplicates, similar to iSort.
 * [PPImportArrangerExtension](https://github.com/VernonVan/PPImportArrangerExtension) - A Xcode Source Editor Extension to arrange current file's all #import lines, support Objective-C、Swift、C.
@@ -40,7 +37,6 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 * [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [JSON-to-Swift-Converter](https://github.com/mrlegowatch/JSON-to-Swift-Converter) - an open-source Xcode Source Editor extension for creating Swift code from JSON-formatted text.
-* [JSON2Swift](https://itunes.apple.com/us/app/json2swift/id1208964041?mt=12) - a flexible, fast, customizable tool which allows you to generate swift code based on JSON file.
 * [Json2Property](https://github.com/keepyounger/Json2Property) - a open-source Xcode Extension by [keepyounger](https://github.com/keepyounger), allow you conveniently to convert Json to Objective-C model.
 * [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) - Xcode editor extension for swift code generation.
 * [GenerateSwiftInit](https://github.com/bkobilansky/GenerateSwiftInit) - Proof of concept for Xcode 8 source extensions; generate a Swift init from current selection
@@ -53,15 +49,16 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [BExtension](https://github.com/DominikBucher12/BEExtension) - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ViewGenerator](https://github.com/funzin/ViewGenerator) - ViewGenerator generates view code from variable name automatically in iOS development.
+* [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then'
 
 ### Helper on editing
 
-* [Comment Here](https://itunes.apple.com/us/app/comment-here/id1406737173?mt=12) - Insert // just before indented text
+* [Comment Here](https://apps.apple.com/us/app/comment-here/id1406737173?mt=12) - Insert // just before indented text
 * [NSLayoutConstraintSourceEditorExtension](https://github.com/shindyu/NSLayoutConstraintSourceEditorExtension) - Quickly add NSLayoutConstraint. Also support multiple variables.
 * [XSpellCheck](https://github.com/wangjiejacques/XSpellCheck) - XSpellCheck is a Xcode extension for swift code spell check.
 * [XCJumpToTests](https://github.com/takasek/XCJumpToTests) - the Xcode Source Editor Extension / AppleScript to jump files of Implementation⇄Tests
 * [Sharpshooter](https://github.com/twostraws/Sharpshooter) - A tiny Xcode extension for people who debug with print()
-* [Linex](https://github.com/kaunteya/Linex) - Packed with a lot of useful tools for everyday editing
+* [Linex](https://github.com/uchuugaka/Linex) - Packed with a lot of useful tools for everyday editing (*may no longer be maintained*) 
 * [XCExpandRegion](https://bitbucket.org/rjchatfield/xcexpandregion) - Select text by expanding the current selection
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code.
 * [XcodeCComment](https://github.com/flexih/XcodeCComment) - Xcode Source Editor Extension for C Style Comment /**/
@@ -79,10 +76,10 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DeclareType](https://github.com/timaktimak/DeclareType) - Generate the type declaration in your file based on the file name
 * [LineEscapeEx](https://github.com/sidepelican/LineEscapeEx) - Duplicate lines as comment
 * [MGTextPlus](https://github.com/tuan188/MGTextPlus) - A Xcode Source Editor extension to duplicate line, delete line, join lines and more.
-* [TabifyIndents](https://itunes.apple.com/jp/app/tabifyindents-for-xcode/id1179234554?mt=12) - This application adds two feature that Tabify and Untabify to Xcode Source Editor.
+* [TabifyIndents](https://apps.apple.com/jp/app/tabifyindents-for-xcode/id1179234554?mt=1) - This application adds two feature that Tabify and Untabify to Xcode Source Editor.
 * [Literals](https://github.com/Igor-Palaguta/LiteralsExtension) - Converts UIColor, NSColor, UIImage to literals
-* [LanguageTranslator](https://itunes.apple.com/app/languagetranslator-for-xcode/id1218781096?mt=12) - A Xcode Source Editor extension to translate selected text into other language.
-* [NamingTranslator](https://itunes.apple.com/app/namingtranslator-for-xcode/id1218784832?mt=12) - A Xcode Source Editor extension to translate selected variable or method between PascalCase, camelCase and snake_case.
+* [LanguageTranslator]( https://apps.apple.com/app/languagetranslator-for-xcode/id1218781096?mt=12) - A Xcode Source Editor extension to translate selected text into other language.
+* [NamingTranslator]( https://apps.apple.com/app/namingtranslator-for-xcode/id1218784832?mt=12) - A Xcode Source Editor extension to translate selected variable or method between PascalCase, camelCase and snake_case.
 * [DevHelper](https://github.com/AlexeyGolovenkov/DevHelper) - Several inline tools - sort, comment out etc.
 * [AutoImport](https://github.com/hhfa008/AutoImport) - AutoImport, handy Xcode plugin to import header file automatically.
 * [ConflictResolver](https://github.com/liaojinxing/ConflictResolver) - An Xcode Source Editor Extension that helps resolving merge conflicts.
@@ -90,8 +87,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) - Runs spell check and auto correct on code comments.
 * [XPaste](https://github.com/rickytan/XPaste) - A Xcode Source Extension to power up your text paste abilities
 * [Convert to Multi-Line Function](https://github.com/chrischute/xcode-multi-line-func) - XCode Source Editor Command to put each function argument on its own line.
-* [SwitchIt](https://github.com/HarmVanRisk/SwitchIt) - An Xcode Extension that auto generates your switch statements from your defined enums. Can be downloaded on the app store [here](https://itunes.apple.com/ie/app/switchit/id1244401606?mt=12)
-* [DoubleTake](https://github.com/HarmVanRisk/DoubleTake) - An Xcode Extension that removes duplicate imports/@class defined in a class. Can be downloaded on the app store [here](https://itunes.apple.com/ie/app/doubletake/id1453300536?mt=12)
+* [SwitchIt](https://github.com/HarmVanRisk/SwitchIt) - An Xcode Extension that auto generates your switch statements from your defined enums. Can be downloaded on the app store [here]( https://apps.apple.com/ie/app/switchit/id1244401606?mt=12)
+* [DoubleTake](https://github.com/HarmVanRisk/DoubleTake) - An Xcode Extension that removes duplicate imports/@class defined in a class. Can be downloaded on the app store [here]( https://apps.apple.com/ie/app/doubletake/id1453300536?mt=12)
 * [BlockComment](https://github.com/bradhowes/BlockComment) - Parses Swift code to generate block comment contents
 
 ### Collaborations with internal/external services
@@ -105,23 +102,23 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
 * [GitBlamePR](https://github.com/maoyama/GitBlamePR) - An Xcode Source Editor Extension that shows pull request last modified each line of a file.
 * [RaySo](https://github.com/artemnovichkov/RaySo) - share your awesome code to [ray.so](https://ray.so) with Xcode Extension.
-
+* [XcodeUniversalSearch](https://github.com/sm11963/XcodeUniversalSearch) - Search or open custom URLs from Xcode - just like custom Chrome search engines.
 
 ### For Objective-C
 
 * [EasyCode-Xcode](https://github.com/music4kid/EasyCode-Xcode) - "legal" Xcode Plugin for inserting code in super duper fast lazy way.
-* [Swiftify Xcode extension](https://itunes.apple.com/us/app/swiftify-objective-c-to-swift/id1183412116) - allows you to convert Objective-C code to Swift right from Xcode.
+* [Swiftify Xcode extension]( https://apps.apple.com/us/app/swiftify-objective-c-to-swift/id1183412116) - allows you to convert Objective-C code to Swift right from Xcode.
 * [Dotify](https://github.com/cyanzhong/Dotify) - Convert [[AnObject method1] method2] to AnObject.method1.method2 with Xcode Extension
 * [Propertizer](https://github.com/josipbernat/Propertizer) - Autocompletes  statements with desired type.
 * [Basics](https://github.com/b-yng/Basics) - Generates __NSCopying__, __isEquals__, __hash__, and more.
 * [Pragmatic](https://github.com/bgannin/Pragmatic) - An Xcode 8.*x* Source Editor extension for simplifying common pragma driven tasks
-* [Xcode-NSCoding](https://github.com/accatyyc/xcode-nscoding) - Automatically creates NSCoding-implementations from properties
-* [CodeGenerator](https://github.com/DeveloperPans/CodeGenerator) - A Xcode Source Editor extension to generate lazy getter methods from property.
+* [Xcode-NSCoding](https://github.com/joelekstrom/xcode-nscoding) - Automatically creates NSCoding-implementations from properties
+* [CodeGenerator](https://github.com/MrPans/CodeGenerator) - A Xcode Source Editor extension to generate lazy getter methods from property.
 
 ### Joke
 
 * [XcodeExtension-TotsuzenNoShi](https://github.com/safx/XcodeExtension-TotsuzenNoShi) - A small "sudden" example of Xcode source code extension
-* [CodeCows](https://itunes.apple.com/us/app/codecows/id1176112058?mt=12) - Add hundreds of ASCII cows to your source code
+* [CodeCows]( https://apps.apple.com/us/app/codecows/id1176112058?mt=12) - Add hundreds of ASCII cows to your source code
 
 ### Uncategorized
 
@@ -138,3 +135,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [BDDShortcuts](https://github.com/tjarratt/BDDShortcuts) - BDD Shortcuts is an Xcode 8+ plugin that adds handy shortcuts for Swift and BDD frameworks such as Cedar, Quick, Kiwi or Specta.
 * [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode.
 * [Code Friend](https://github.com/qvcodefriend/CodeFriend) - JavaScript interface for XcodeKit. Users can develop Xcode Extensions rapidly.
+* [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser. 

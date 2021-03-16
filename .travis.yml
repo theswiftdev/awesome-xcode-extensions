@@ -1,0 +1,12 @@
+language: ruby
+rvm: 
+  - 2.4.1
+before_script:
+  - gem install awesome_bot
+  - gem install danger
+script:
+  - allowed_redirects=gist.github.com
+  - awesome_bot README.md --allow-ssl --white-list $allowed_redirects
+  - danger
+notifications:
+  email: false
