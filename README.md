@@ -50,6 +50,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ViewGenerator](https://github.com/funzin/ViewGenerator) - ViewGenerator generates view code from variable name automatically in iOS development.
 * [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then'
+* [MappingCoder](https://github.com/wgy6055/MappingCoder) - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
 
 ### Helper on editing
 
