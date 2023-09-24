@@ -39,6 +39,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [JSON-to-Swift-Converter](https://github.com/mrlegowatch/JSON-to-Swift-Converter) - an open-source Xcode Source Editor extension for creating Swift code from JSON-formatted text.
 * [Json2Property](https://github.com/keepyounger/Json2Property) - a open-source Xcode Extension by [keepyounger](https://github.com/keepyounger), allow you conveniently to convert Json to Objective-C model.
 * [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) - Xcode editor extension for swift code generation.
+* [Interlinked](https://apps.apple.com/pl/app/interlinked/id6464111295?mt=12) - Sync your initializer incrementally with the state of your stored properties (and more). Available through *AppStore*. Medium article [here](https://medium.com/@d.kowalsky92/interlinked-keep-your-initializer-synced-ccaccf6f5c9c). 
 * [GenerateSwiftInit](https://github.com/bkobilansky/GenerateSwiftInit) - Proof of concept for Xcode 8 source extensions; generate a Swift init from current selection
 * [Localizer](https://github.com/esttorhe/Localizer) - It then breaks apart any String declarations it founds by splitting the selection based off " and then wrap the resulting String inside NSLocalizedString.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
